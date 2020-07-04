@@ -1,3 +1,5 @@
+//This app is completed using concepts of OOP,classes and objects
+
 import 'package:flutter/material.dart';
 import 'package:quiz_master/Quiz_brain.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
